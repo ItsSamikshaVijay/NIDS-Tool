@@ -1,11 +1,9 @@
-# NIDS-Tool
-Python Network Intrusion Detection System (NIDS)
 
- 
+### Python Network Intrusion Detection System (NIDS)
 
 A simple yet powerful Network Intrusion Detection System (NIDS) built in Python. This tool captures network packets, detects suspicious activities (like port scanning and brute force attacks), checks malicious IPs against a threat database, and can automatically block attackers using firewall rules.
 
-📌 Features
+# 📌 Features
 
 Real-time Packet Capturing using Scapy
 
