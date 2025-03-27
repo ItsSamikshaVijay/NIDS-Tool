@@ -17,7 +17,7 @@ Logging & Alerting (Suspicious activity logs)
 
 Lightweight & Extendable
 
-📖 Installation
+# 📖 Installation
 
 # Clone the repository
 ```
